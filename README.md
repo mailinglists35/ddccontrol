@@ -45,6 +45,8 @@ make
 sudo make install
 ```
 
+Install database https://github.com/ddccontrol/ddccontrol-db
+
 ## Usage
 
 ### From GUI using gddccontrol
